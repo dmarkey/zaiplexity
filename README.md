@@ -2,6 +2,7 @@
 
 A Perplexity-like AI research assistant built with Agno and AgnoOS, leveraging Z.ai's GLM language models and web search capabilities for subscribers of the Z.ai Pro coding plan.
 
+If you want a discount signing up for the GLM-Pro coding plan use this referral link for a discount: https://z.ai/subscribe?ic=TRBNVB64AN
 ## Overview
 
 Zaiplexity is a multi-agent AI research system that provides intelligent web research capabilities through three specialized agents:
